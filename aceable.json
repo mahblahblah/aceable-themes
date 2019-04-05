@@ -1,4 +1,5 @@
 {
-    "color":"red",
-    "label":"textxxxxx"
+    "primaryBrand":"#12bdcd",
+    "secondaryBrand":"#ff3072",
+    "black":"#000"
 }
