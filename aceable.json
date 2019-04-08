@@ -1,6 +1,14 @@
-{
-    "primaryBrand":"#12A1CD",
-    "secondaryBrand":"#ff3072",
-    "black":"#000",
-    "white":"#fff"
-}
+[
+    {
+        "primaryBrand":"#12A1CD",
+        "secondaryBrand":"#ff3072",
+        "black":"#000",
+        "white":"#fff"
+    },
+    {
+        "primaryBrand":"red",
+        "secondaryBrand":"#ff3072",
+        "black":"#000",
+        "white":"#fff"
+    }
+]
