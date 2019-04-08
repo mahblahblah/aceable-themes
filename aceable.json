@@ -11,7 +11,7 @@
     {
         "name":"IDS",
         "colors": {
-            "primaryBrand":"#6EC662",
+            "primaryBrand":"red",
             "secondaryBrand":"#ff3072",
             "black":"#000",
             "white":"#fff"
