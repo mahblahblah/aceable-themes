@@ -1,6 +1,6 @@
 [
     {
-        "brand":"Aceable",
+        "name":"Aceable",
         "colors": {
             "primaryBrand":"#12A1CD",
             "secondaryBrand":"#ff3072",
@@ -9,7 +9,7 @@
         }
     },
     {
-        "brand":"IDS",
+        "name":"IDS",
         "colors": {
             "primaryBrand":"red",
             "secondaryBrand":"#ff3072",
