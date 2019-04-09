@@ -4,16 +4,18 @@
         "colors": {
             "primaryBrand":"#12A1CD",
             "secondaryBrand":"#ff3072",
-            "black":"#000",
+            "hardBlack":"#000",
+            "black":"#18262F",
             "white":"#fff"
         }
     },
     {
         "name":"IDS",
         "colors": {
-            "primaryBrand":"#6EC662",
-            "secondaryBrand":"#ff3072",
-            "black":"#000",
+            "primaryBrand":"#0AA8CF",
+            "secondaryBrand":"#6EC662",
+            "hardBlack":"#000",
+            "black":"#09243E",
             "white":"#fff"
         }
     }
